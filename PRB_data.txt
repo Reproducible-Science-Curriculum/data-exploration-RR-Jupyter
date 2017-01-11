@@ -1,13 +1,13 @@
 year	pop	lifeExp	gdpPercap	region
-1952	113805	66.75	779.678	America_Peoples Republic of Berkeley
-1957	114077	67.96	821.296	America_Peoples Republic of Berkeley
-1962	111268	71.11	857.2354	America_Peoples Republic of Berkeley
-1967	114785	72.03	838.1382	America_Peoples Republic of Berkeley
-1972	116716	72.67	737.1058	America_Peoples Republic of Berkeley
-1977	116370	73.71	785.1336	America_Peoples Republic of Berkeley
-1982	104429	74.56	980.0388	America_Peoples Republic of Berkeley
-1987	102351	75.96	851.9448	America_Peoples Republic of Berkeley
-1992	103328	76.95	649.3952	America_Peoples Republic of Berkeley
-1997	102724	78.91	636.3435	America_Peoples Republic of Berkeley
-2002	102743	79.07	726.734	America_Peoples Republic of Berkeley
-2007	112580	80.03	979.3384	America_Peoples Republic of Berkeley
+1952	113805	66.75	779.678	Americas_Peoples Republic of Berkeley
+1957	114077	67.96	821.296	Americas_Peoples Republic of Berkeley
+1962	111268	71.11	857.2354	Americas_Peoples Republic of Berkeley
+1967	114785	72.03	838.1382	Americas_Peoples Republic of Berkeley
+1972	116716	72.67	737.1058	Americas_Peoples Republic of Berkeley
+1977	116370	73.71	785.1336	Americas_Peoples Republic of Berkeley
+1982	104429	74.56	980.0388	Americas_Peoples Republic of Berkeley
+1987	102351	75.96	851.9448	Americas_Peoples Republic of Berkeley
+1992	103328	76.95	649.3952	Americas_Peoples Republic of Berkeley
+1997	102724	78.91	636.3435	Americas_Peoples Republic of Berkeley
+2002	102743	79.07	726.734	Americas_Peoples Republic of Berkeley
+2007	112580	80.03	979.3384	Americas_Peoples Republic of Berkeley
